@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>page2.qml</file>
+        <file>maintest.qml</file>
+        <file>busyindicator.qml</file>
+    </qresource>
+</RCC>
